@@ -17,7 +17,7 @@
     "vscode-json-languageservice": "^3.3.0-next.4",
     "vscode-languageserver": "^5.1.0",
     "vscode-nls": "^4.0.0",
-    "vscode-uri": "^1.0.6"
+    "vscode-uri": "^3.0.8"
   },
   "devDependencies": {
     "@types/mocha": "2.2.33",
