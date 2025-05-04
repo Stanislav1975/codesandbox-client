@@ -6,7 +6,7 @@
   "dependencies": {
     "@codesandbox/common": "^1.0.8",
     "axios": "^0.19.2",
-    "babel-plugin-emotion": "^9.2.10",
+    "babel-plugin-emotion": "^9.2.11",
     "emotion": "^9.2.10",
     "gsap": "^2.0.2",
     "preact": "^8.3.1",
