@@ -723,7 +723,7 @@
 		"neovim": "4.2.1",
 		"untildify": "3.0.3",
 		"winston": "3.2.1",
-		"winston-console-for-electron": "0.0.6"
+		"winston-console-for-electron": "0.0.7"
 	},
 	"devDependencies": {
 		"@types/diff": "4.0.1",
