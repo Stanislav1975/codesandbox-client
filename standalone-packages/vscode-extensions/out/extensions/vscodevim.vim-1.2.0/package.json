@@ -721,7 +721,7 @@
 		"lodash": "4.17.11",
 		"mkdirp": "0.5.1",
 		"neovim": "4.2.1",
-		"untildify": "3.0.3",
+		"untildify": "5.0.0",
 		"winston": "3.2.1",
 		"winston-console-for-electron": "0.0.6"
 	},
